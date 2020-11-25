@@ -82,8 +82,8 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 ──────────────────────────────────────────────
 
 
-                   Contact:sbsagor43@gmail.com
-                   Name:SB SAGOR
+             Contact:sbsagor43@gmail.com
+                      Name:SB SAGOR
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
