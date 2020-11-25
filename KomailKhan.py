@@ -149,7 +149,7 @@ print  """\033[1;91m
 ─────██████─────██████──██████─██████████████─
 ──────────────────────────────────────────────
 
-                        SB SAGOR 
+                         SB SAGOR 
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
@@ -158,11 +158,11 @@ print  """\033[1;91m
                      ▇▇◣◥▅▅▅◤◢▇▇
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
-                   CONTACT:SBSAGOR43@GMAIL.COM
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
+            CONTACT:SBSAGOR43@GMAIL.COM
+\033[1;96mAuthor  \033[1;93m: \033[1;92m DJ VAU
 \033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1;92m komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
+\033[1;96mFacebook  \033[1;93m: \033[1;92m SB SAGOR 
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/sb123861/Bangladesh
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
